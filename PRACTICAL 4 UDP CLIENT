@@ -5,7 +5,7 @@
 #include <netinet/in.h>
 #include <sys/stat.h>
 
-#define PORT 9090
+#define PORT 9146
 #define BUF_SIZE 1024
 
 int main() {
